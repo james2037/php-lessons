@@ -43,3 +43,4 @@ Only add to the page hit counter if this IP address has never been seen before. 
 * `file_put_contents`
 * `serialize`
 * `unserialize`
+* `header`
